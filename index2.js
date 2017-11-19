@@ -7,4 +7,3 @@ function outerFunction() {
     return innerVariable;
   }
 }
-innerScope()
